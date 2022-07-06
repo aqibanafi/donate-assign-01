@@ -5,7 +5,7 @@
 .hero{
     background-image: url(/img/hero-optional.jpg);
     height: 1080px;
-    width: auto;
+   
     background-repeat: no-repeat;
     
 }
@@ -35,4 +35,56 @@ a{
     border-radius: 10px;
     margin-left: 850px;
    
+}
+.general-heading{
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    text-align: center;
+    
+    letter-spacing: 5px;
+}
+.general-para{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 45px;
+    font-weight: 600;
+    color:black;
+    margin-bottom: -20px;
+}
+.donate-amount{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 50px;
+    
+}
+.donate-amount > div > h3{
+    font-size: 40px;
+    padding: 50px;
+    
+}
+.donate-today{
+    margin-top: -50px;
+}
+#highlight-donate{
+    background-color: #ffeeee;
+    border: 2px #ff5959 solid ;
+}
+form{
+    text-align: center;
+}
+.input-field{
+  padding: 10px;
+  padding-left: 20px;
+  height: 20px;
+  font-size: 14px;
+  border-radius: 20px;
+  background: #ecf0f3;
+  width: 600px;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  
 }
