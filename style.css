@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hero{
+    background-image: url(/img/hero-optional.jpg);
+    height: 1080px;
+    width: auto;
+    background-repeat: no-repeat;
+    
+}
+#hero-h1{
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 300px;
+    letter-spacing: 5px;
+}
+#hero-para{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 45px;
+    font-weight: 600;
+}
+a{
+    background-color: #ff5959;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-left: 850px;
+   
+}
